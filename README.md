@@ -1,2 +1,6 @@
 # Honeypot-Cybersecurity-System
-Decoy system designed to attract hackers and monitor their activities. It logs malicious attempts and helps us understand how attackers operate
+
+✅Captures network packets using raw sockets.
+✅ Logs and trains AI to detect unusual traffic.
+✅ Uses AI in real time to flag attacks.
+✅ Displays attacks in a web dashboard.
