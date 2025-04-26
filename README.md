@@ -1,5 +1,5 @@
 # Honeypot-Cybersecurity-System
-
+This project includes:
 1) Raw socket sniffer to capture all incoming TCP packets.
 2) IP and TCP header parsing to extract: Source IP, Destination IP, Source Port, Destination Port, TCP Flags (SYN, ACK, FIN), Packet size
 3) CSV logging of parsed packet data for ML training.
